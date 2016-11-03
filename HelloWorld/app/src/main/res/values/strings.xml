@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My new Test Helloword</string>
+    <string name="my_text">Hello World</string>
+    <string name="my_new_text">Hello World</string>
+</resources>
